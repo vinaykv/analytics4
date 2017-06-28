@@ -1,0 +1,33 @@
+
+#headline{
+	margin-top: 55px;
+	margin-right: 75px;
+	margin-left: 400px;
+	margin-bottom: 75px;
+	text-transform:uppercase;
+}
+
+#tab{
+	font-family: arial, sans-serif;
+    border: 1px solid black;
+	margin-top: -50px;
+	margin-right: 75px;
+	margin-left: 75px;
+	margin-bottom: 50px;	
+	background-color:#f2f2f2;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+	text-transform: capitalize;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+#table_headers{
+    background-color: #63c64f;
+	text-transform:uppercase;
+}
